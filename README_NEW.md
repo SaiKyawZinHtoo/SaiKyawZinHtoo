@@ -10,10 +10,12 @@
   <em>"Building beautiful and scalable mobile apps with Flutter. Specialized in cross-platform solutions and modern app architectures."</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikyawzinhtoo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/saikyawzinhtoo?label=Followers&style=social" alt="followers"/>
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saikyawzinhtoo&label=PROFILE+VIEWS&color=6a8caf&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/stars/saikyawzinhtoo?label=STARS&style=flat-square&color=ea6a6a&logo=github" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/saikyawzinhtoo?label=FOLLOWERS&style=flat-square&color=6a8caf&logo=github" alt="followers"/>
+</div>
 
 ---
 
