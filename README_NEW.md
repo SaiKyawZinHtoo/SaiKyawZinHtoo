@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" alt="banner" width="100%"/>
+  <img src="./gif" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center">Namaste 🙏 I'm Sai Kyaw Zin Htoo (ShanLay)</h1>
-<h3 align="center">🚀 Passionate Mobile Developer | Flutter Enthusiast</h3>
+
+<h1 align="center">Mingalarpar 🙏 I'm Sai Kyaw Zin Htoo (ShanLay)</h1>
+<h3 align="center">🚀 Software Developer & Software Engineer at [Your Company]</h3>
 
 <p align="center">
-  <em>"Turning ideas into beautiful mobile apps with Flutter."</em>
+  <em>"Building beautiful and scalable mobile apps with Flutter. Specialized in cross-platform solutions and modern app architectures."</em>
 </p>
 
 <p align="center">
@@ -16,9 +17,16 @@
 
 ---
 
-🌱 **Currently learning:** Flutter, Dart, and modern mobile app architectures
 
-💬 **Ask me about:** Flutter, Dart, Mobile App Development
+� **Current Role:** Software Developer & Software Engineer at [Your Company]
+
+🛠️ **Main Stack:** Flutter (Dart), Firebase, REST APIs, Git, CI/CD
+
+📱 **Focus:** Cross-platform mobile development, UI/UX, performance optimization
+
+💬 **Ask me about:** Flutter, Dart, Mobile App Development, App Architecture
+
+🌱 **Currently learning:** Advanced Flutter, Clean Architecture, Testing, DevOps
 
 📫 **How to reach me:**
 
