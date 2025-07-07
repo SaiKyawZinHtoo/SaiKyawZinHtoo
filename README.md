@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="./gif" alt="banner" width="100%"/>
 </p>
+
 
 
 <h1 align="center">Mingalarpar 🙏 I'm Sai Kyaw Zin Htoo (ShanLay)</h1>
@@ -109,6 +111,7 @@
 <!-- Tech Stack -->
 <h3>💻 Mobile Developer Tech Stack:</h3>
 <br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -136,3 +139,16 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
+
+<!-- ending-->
+<div align="center" style="margin-top: 48px;">
+  <a href="./Japanese%20Wheat%20Field.gif">
+    <img src="./Japanese%20Wheat%20Field.gif" alt="Japanese Wheat Field GIF" style="width: 100%; border-radius: 16px; box-shadow: 0 4px 24px #0002;"/>
+  </a>
+</div>
+
+<!-- Attribution -->
+<p align="center" style="margin-top: 48px; color: #888; font-size: 1.05em;">
+  ⚠️ This README is uniquely designed and customized by <strong>Sai Kyaw Zin Htoo (ShanLay)</strong>.<br/>
+  Inspired by <a href="https://github.com/JoshuaThadi" target="_blank"><strong>JoshuaThadi</strong></a>.
+</p>
