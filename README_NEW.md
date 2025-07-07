@@ -96,9 +96,9 @@
 ---
 
 
-<h2 align="center" style="margin-top:40px; margin-bottom:16px; color:#b3c6e0;">
-  <img src="https://img.icons8.com/emoji/24/seedling-emoji.png" width="24" style="vertical-align:middle;"/> Github Status
-</h2>
+
+<h2 align="center">🌱 Github Status</h2>
+<hr/>
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px; margin: 24px 0;">
   <div style="background:#232a36; border-radius:18px; box-shadow:0 2px 16px #0003; padding:28px 36px 24px 36px; min-width:320px; max-width:400px; margin:8px; display:inline-block; vertical-align:top;">
