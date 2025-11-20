@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="font-size:2.5rem; font-weight:800; color:#2d3748; margin-bottom:0;">Mingalarpar 🙏 I'm Sai Kyaw Zin Htoo (ShanLay)</h1>
-<h3 align="center" style="font-size:1.5rem; font-weight:600; color:#4f8cff; margin-top:0;">🚀 Software Developer & Software Engineer at Fortune</h3>
+<h3 align="center" style="font-size:1.5rem; font-weight:600; color:#4f8cff; margin-top:0;">🚀 Software Developer & Software Engineer</h3>
 
 <p align="center" style="font-size:1.15rem; color:#444; margin-top:0;">
   <em>Building beautiful and scalable mobile apps with <b>Flutter</b>. Specialized in cross-platform solutions and modern app architectures.</em>
